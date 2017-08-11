@@ -1,0 +1,5 @@
+debug
+*.exe
+*.~exe
+*.exe~
+static/survey.toml

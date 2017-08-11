@@ -1,0 +1,10 @@
+[Survey]
+WSURL       = "http://10.121.4.61:8819/CommonSMWS?wsdl"
+
+[Host]
+Name        = "Synchronize Db"
+Port        = ":3001"
+
+[db]
+DBHost      = "192.168.11.43:27017"
+DBName      = "sync_db"
